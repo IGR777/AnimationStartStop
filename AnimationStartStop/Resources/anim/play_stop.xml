@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:ordering="sequentially">
+
+	<objectAnimator
+		android:propertyName="pathData"
+		android:duration="500"
+		android:valueTo="@string/act_stop"
+		android:valueType="pathType" />
+</set>

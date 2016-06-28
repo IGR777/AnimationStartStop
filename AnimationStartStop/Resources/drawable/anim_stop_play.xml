@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:drawable="@drawable/act_stop"  android:ordering="sequentially">
+
+    <target
+    android:name="v"
+    android:animation="@anim/reset_stop_play_rotated" />
+
+	<target
+    android:name="v"
+    android:animation="@anim/stop_play_rotated" />
+
+	<target
+    android:name="stop_vector"
+    android:animation="@anim/play_rotate_back" />
+</animated-vector>

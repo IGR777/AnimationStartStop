@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">AnimationStartStop</string>
+	<string name="act_start">M2 2 l18 9 l0 0 l-18 9 z </string>
+	<string name="act_stop">M2 2 l18 0 l0 18 l-18 0 z </string>
+	<string name="act_start_rotated">M2 2 l18 0 l-9 18 l0 0 z</string>
+</resources>

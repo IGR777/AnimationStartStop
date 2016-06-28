@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:ordering="sequentially">
+
+	<objectAnimator
+		android:propertyName="pathData"
+		android:duration="0"
+		android:valueTo="@string/act_start"
+		android:valueType="pathType" />
+</set>
